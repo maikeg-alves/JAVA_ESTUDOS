@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Console",
+            "request": "launch",
+            "mainClass": "fundamentos.Console",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch TipoString",
             "request": "launch",
             "mainClass": "fundamentos.TipoString",
