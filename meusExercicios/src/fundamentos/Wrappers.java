@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class Wrapper {
+public class Wrappers {
     public static void main(String[] args) {
         Byte b = 100;
         Short s = 1000;
