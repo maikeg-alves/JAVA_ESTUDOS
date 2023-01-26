@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ConversaoTiposPrimitivosNumericos",
+            "request": "launch",
+            "mainClass": "fundamentos.ConversaoTiposPrimitivosNumericos",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Wrapper",
             "request": "launch",
             "mainClass": "fundamentos.Wrapper",
