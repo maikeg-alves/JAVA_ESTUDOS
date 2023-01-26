@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Import",
+            "request": "launch",
+            "mainClass": "fundamentos.Import",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteClass",
+            "request": "launch",
+            "mainClass": "TesteClass",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaCircoverencia",
+            "request": "launch",
+            "mainClass": "fundamentos.AreaCircoverencia",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inferencia",
+            "request": "launch",
+            "mainClass": "fundamentos.Inferencia",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch NotacaoPonto",
+            "request": "launch",
+            "mainClass": "fundamentos.NotacaoPonto",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "fundamentos.PrimeiroPrograma",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TipoPrimitivos",
+            "request": "launch",
+            "mainClass": "fundamentos.TipoPrimitivos",
+            "projectName": "meusExercicios_a1226b8a"
+        }
+    ]
+}
