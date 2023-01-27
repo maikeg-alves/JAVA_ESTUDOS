@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Aritimetricos",
+            "request": "launch",
+            "mainClass": "fundamentos.Aritimetricos",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ConversaoStringNumero",
             "request": "launch",
             "mainClass": "fundamentos.ConversaoStringNumero",
