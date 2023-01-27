@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ConversaoStringNumero",
+            "request": "launch",
+            "mainClass": "fundamentos.ConversaoStringNumero",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ConversaoNumeroString",
             "request": "launch",
             "mainClass": "fundamentos.ConversaoNumeroString",
