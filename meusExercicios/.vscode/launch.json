@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TiposStringEquals",
+            "request": "launch",
+            "mainClass": "fundamentos.TiposStringEquals",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Ternario",
             "request": "launch",
             "mainClass": "fundamentos.Ternario",
