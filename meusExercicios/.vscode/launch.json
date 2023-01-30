@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "fundamentos.DesafioFundamentos.Calculadora",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch TiposStringEquals",
             "request": "launch",
             "mainClass": "fundamentos.TiposStringEquals",
