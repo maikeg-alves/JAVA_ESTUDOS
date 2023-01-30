@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Unarios",
+            "request": "launch",
+            "mainClass": "fundamentos.Unarios",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Atribuição",
             "request": "launch",
             "mainClass": "fundamentos.Atribuição",
