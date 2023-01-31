@@ -5,18 +5,11 @@ import java.util.Scanner;
 public class While2 {
     public static void main(String[] args) {
 
-        boolean status = false;
         Scanner entrada = new Scanner(System.in);
-
-        while (!status) {
-            String command = entrada.next();
-
-            if ("sair".equals(command.toLowerCase())) {
-                status = true;
-            }
-
-            System.out.println("...");
-
+        String command = "";
+        while (!"sair".equals(command.toLowerCase())) {
+            System.out.print("Você diz: ");
+            command = entrada.next();
         }
 
         entrada.close();
