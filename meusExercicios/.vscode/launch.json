@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.IfElse",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ifelse",
             "request": "launch",
             "mainClass": "EstruturasDeControle.ifelse",
