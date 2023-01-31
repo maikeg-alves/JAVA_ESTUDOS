@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.DoWhile",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch While2",
             "request": "launch",
             "mainClass": "EstruturasDeControle.While2",
