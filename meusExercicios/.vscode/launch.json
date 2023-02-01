@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch desafiofor3",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.desafiofor3",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch for3",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.for3",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch desafiofor",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.desafiofor",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch desafioWhile",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.desafioWhile",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch DoWhile",
             "request": "launch",
             "mainClass": "EstruturasDeControle.DoWhile",

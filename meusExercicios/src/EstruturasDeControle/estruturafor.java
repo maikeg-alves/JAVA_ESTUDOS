@@ -1,6 +1,6 @@
 package EstruturasDeControle;
 
-public class For {
+public class estruturafor {
     public static void main(String[] args) {
 
         int contador = 10;
