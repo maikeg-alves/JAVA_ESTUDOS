@@ -3,7 +3,14 @@ package EstruturasDeControle;
 public class switchsembreak {
     public static void main(String[] args) {
 
-        String faixa = "roxo";
+        /*
+         * switchs sem breaks (ou quase isso), são bons para situações que outros
+         * valores em uma fila são aplicaveis,
+         * no exemplo fala sobre faixas e golpes, se vc tem a faixa preta logo sabe
+         * todos os golpes a baixo dela
+         */
+        
+         String faixa = "preta";
 
         switch (faixa) {
             case "preta":
