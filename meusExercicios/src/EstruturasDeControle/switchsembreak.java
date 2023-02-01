@@ -15,7 +15,7 @@ public class switchsembreak {
         switch (faixa) {
             case "preta":
                 System.out.println("sei o bassai-dan");
-            case "marron":
+            case "marron": 
                 System.out.println("sei o Tekki shodan");
             case "roxo":
                 System.out.println("sei o Heian Godan");

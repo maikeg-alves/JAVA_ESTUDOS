@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch metodoswitch",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.metodoswitch",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch switchsembreak",
             "request": "launch",
             "mainClass": "EstruturasDeControle.switchsembreak",
