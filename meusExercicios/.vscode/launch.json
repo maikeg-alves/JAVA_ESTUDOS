@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch switchsembreak",
+            "request": "launch",
+            "mainClass": "EstruturasDeControle.switchsembreak",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch desafiofor3",
             "request": "launch",
             "mainClass": "EstruturasDeControle.desafiofor3",
