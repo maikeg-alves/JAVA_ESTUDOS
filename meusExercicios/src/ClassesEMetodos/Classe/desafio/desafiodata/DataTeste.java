@@ -18,9 +18,22 @@ public class DataTeste {
         System.out.print("Digite o ano: ");
         mydata.Ano = entrada.nextInt();
 
+        // imprimindo datas digitadas 
+        System.out.println(mydata.dataFormatada()); // usando metodo para formatar   
 
-        System.out.printf("%d/%d/%d", mydata.Dia, mydata.Mes, mydata.Ano);
+
+        //imprimindo pelo metodo imprimir 
+       
+        mydata.imprimirDataFormatada();
+
+
+        //imprimindo a data padrão 
+
+        var padrao = new Data();
+
+        System.out.println("data padrão " +  padrao.dataFormatada());
         
         entrada.close();
     }
 }
+ 

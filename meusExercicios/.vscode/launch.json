@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AreaCircTeste",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.AreaCircTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTeste",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.desafio.desafiodata.DataTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch dataTeste",
             "request": "launch",
             "mainClass": "ClassesEMetodos.Classe.desafio.desafiodata.dataTeste",
