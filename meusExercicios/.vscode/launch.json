@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch dataTeste",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.desafio.desafiodata.dataTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdutoTeste",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.ProdutoTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch metodoswitch",
             "request": "launch",
             "mainClass": "EstruturasDeControle.metodoswitch",

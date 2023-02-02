@@ -1,3 +1,4 @@
 {
-    "commentTranslate.targetLanguage": "en"
+    "commentTranslate.targetLanguage": "en",
+    "java.debug.settings.onBuildFailureProceed": true
 }
