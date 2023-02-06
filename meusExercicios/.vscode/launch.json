@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Jantar",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.desafio.desafioPessoa.Jantar",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValorNull",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.ValorNull",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValoresVSReferencia",
+            "request": "launch",
+            "mainClass": "ClassesEMetodos.Classe.ValoresVSReferencia",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch AreaCircTeste",
             "request": "launch",
             "mainClass": "ClassesEMetodos.Classe.AreaCircTeste",
