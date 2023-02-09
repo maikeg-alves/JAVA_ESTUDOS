@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Arrays.Matriz",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch soamndoMedia",
             "request": "launch",
             "mainClass": "Arrays.desafios.soamndoMedia",
