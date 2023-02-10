@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ConjuntoBaguncado",
+            "request": "launch",
+            "mainClass": "Colecoes.ConjuntoBaguncado",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Matriz",
             "request": "launch",
             "mainClass": "Arrays.Matriz",

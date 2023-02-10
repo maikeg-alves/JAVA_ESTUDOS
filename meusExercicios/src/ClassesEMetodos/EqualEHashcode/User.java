@@ -1,4 +1,4 @@
-package classe.EqualEHashcode;
+package ClassesEMetodos.EqualEHashcode;
 
 public class User {
     String nome;

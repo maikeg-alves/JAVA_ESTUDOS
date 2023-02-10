@@ -1,4 +1,4 @@
-package classe.EqualEHashcode;
+package ClassesEMetodos.EqualEHashcode;
 
 import java.util.Date;
 
