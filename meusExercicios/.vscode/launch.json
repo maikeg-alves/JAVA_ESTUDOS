@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fila",
+            "request": "launch",
+            "mainClass": "Colecoes.Fila",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lista",
+            "request": "launch",
+            "mainClass": "Colecoes.Lista",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ConjuntoOrdenado",
             "request": "launch",
             "mainClass": "Colecoes.ConjuntoOrdenado",
