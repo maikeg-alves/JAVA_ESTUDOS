@@ -12,7 +12,7 @@ public class Hash {
 
         /*
          * se o hascode não estivesse configurado corretamente ele daria falso mesmo o
-         * nome estando presente no banco de dados
+         * nome estando presente  no banco de dados
          */
 
         boolean resultado = usuarios.contains(new Usuario("Sarah"));

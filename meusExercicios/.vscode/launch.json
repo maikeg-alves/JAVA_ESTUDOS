@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch carroTeste",
+            "request": "launch",
+            "mainClass": "OOP.carroTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Hash",
             "request": "launch",
             "mainClass": "Colecoes.Hash",
