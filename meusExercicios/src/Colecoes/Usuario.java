@@ -18,6 +18,14 @@ public class Usuario {
     }
 
     @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + ((nome == null) ? 0 : nome.hashCode());
+        return result;
+    }
+
+    @Override
     public boolean equals(Object Objects) {
         if (Objects == this)
             return true;
@@ -27,11 +35,6 @@ public class Usuario {
 
         Usuario usuario = (Usuario) Objects;
         return usuario.nome.equals(this.nome);
-    }
-
-    @Override
-    public int hashCode() {
-        return 0;
     }
 
 }
