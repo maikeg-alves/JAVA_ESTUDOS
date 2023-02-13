@@ -22,6 +22,7 @@ public class Fila {
 
         System.out.println(fila.poll()); // pega o primeiro e remove ele // ANA
         System.out.println(fila.poll()); // pega o primeiro e remove ele // BIA
+      
 
     }
 }
