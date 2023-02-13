@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Mapa",
+            "request": "launch",
+            "mainClass": "Colecoes.Mapa",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Pilha",
             "request": "launch",
             "mainClass": "Colecoes.Pilha",
