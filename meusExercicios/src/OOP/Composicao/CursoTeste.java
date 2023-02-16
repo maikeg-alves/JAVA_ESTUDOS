@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Composicao;
 
 public class CursoTeste {
     public static void main(String[] args) {

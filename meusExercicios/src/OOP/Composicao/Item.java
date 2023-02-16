@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Composicao;
 
 public class Item {
     String nome;

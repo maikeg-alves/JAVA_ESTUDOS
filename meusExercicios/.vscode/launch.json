@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ClienteTeste",
+            "request": "launch",
+            "mainClass": "OOP.desafios.ClienteTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch CursoTeste",
             "request": "launch",
             "mainClass": "OOP.CursoTeste",

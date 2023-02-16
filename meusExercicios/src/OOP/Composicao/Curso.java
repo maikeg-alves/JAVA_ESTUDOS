@@ -1,9 +1,7 @@
-package OOP;
+package OOP.Composicao;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import fundamentos.TipoString;
 
 public class Curso {
 
