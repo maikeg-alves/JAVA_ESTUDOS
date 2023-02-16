@@ -1,12 +1,10 @@
 package OOP.desafios;
 
-/* import java.util.ArrayList;
-import java.util.List; */
-
 public class Item {
 
     int quantidade;
     Produto produto;
+    Compra compra;
 
     Item(int quantidade, Produto produto) {
         this.quantidade = quantidade;

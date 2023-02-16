@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CompraTeste",
+            "request": "launch",
+            "mainClass": "OOP.Composicao.CompraTeste",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Item",
+            "request": "launch",
+            "mainClass": "OOP.desafios.Item",
+            "projectName": "meusExercicios_a1226b8a"
+        },
+        {
+            "type": "java",
             "name": "Launch ClienteTeste",
             "request": "launch",
             "mainClass": "OOP.desafios.ClienteTeste",

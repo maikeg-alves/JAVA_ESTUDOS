@@ -3,30 +3,22 @@ package OOP.desafios;
 public class Cliente {
 
     String nome;
-    Compra compra;
+    Compra compra = new Compra();
 
     Cliente(String nome) {
         this.nome = nome;
     }
 
     void Compra(int quantidade, Produto produto) {
-        compra = new Compra(nome, quantidade, produto);
+        compra.adicionarCompra(new Item(quantidade, produto));
     }
 
-    double valorTotal() {
-        double total = 0;
-        for (Compra lista : compra.compras) {
-            return total = total + (lista.quantidade * lista.produto.preco);
-        }
-        return total;
+    String verValorTotal() {
+        return String.format("Esse é o valor de todos os itens R$ %.2f", compra.valortotal());
     }
 
-    String listaDeCompras() {
-        for (Compra lista : compra.compras) {
-            return lista.quantidade + " " + lista.produto.preco;
-        }
-
-        return null;
+    String verListaDeCompras() {
+        return compra.lista(this.nome);
     }
 
 }
